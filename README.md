@@ -2,39 +2,32 @@
 
 Welcome to my **90-Day AI/ML Engineer Journey**.
 
-This repository documents my daily learning, practice, problem-solving, and revision as I prepare for **AI/ML Engineer roles**.
+This repository documents my daily learning, practice, problem-solving, revision, and progress as I prepare for **AI/ML Engineer roles**.
 
-The goal is not just to complete a syllabus, but to build **strong fundamentals, coding skills, problem-solving ability, and practical AI/ML knowledge** through consistent daily practice.
+My focus is on building strong fundamentals in **Python, DSA, AI/ML, Aptitude, Reasoning, OOP, and Computer Science fundamentals** through consistent daily practice.
 
----
-
-## 🎯 Main Goals
-
-* Strengthen Python programming
-* Build strong DSA and problem-solving skills
-* Learn Artificial Intelligence and Machine Learning
-* Learn Deep Learning, NLP and Generative AI
-* Improve Aptitude and Logical Reasoning
-* Master OOP concepts
-* Strengthen SQL, DBMS, Operating Systems and Computer Networks
-* Practice coding and technical interview questions
-* Build practical AI/ML projects
-* Maintain consistent daily GitHub progress
+> 🎯 **Goal: Become a strong AI/ML Engineer through consistent learning and practical application.**
 
 ---
 
 # 📚 Learning Tracks
 
+This repository contains four main learning tracks.
+
 ## 🐍 1. Python + DSA
 
-Topics include:
+Learning and practicing:
 
 * Python fundamentals
 * Variables and data types
-* Conditions and loops
+* Input and output
+* Operators
+* Conditional statements
+* Loops
 * Functions
 * Lists, tuples, sets and dictionaries
-* Object-oriented programming with Python
+* Strings
+* Object-Oriented Programming with Python
 * Problem solving
 * Data Structures and Algorithms
 * Arrays
@@ -45,6 +38,7 @@ Topics include:
 * Trees
 * Graphs
 * Searching and Sorting
+* Coding problems
 * LeetCode practice
 
 📁 Folder:
@@ -53,31 +47,34 @@ Topics include:
 
 ---
 
-## 🤖 2. Artificial Intelligence & Machine Learning
+# 🤖 2. AI + Machine Learning
 
-Topics include:
+Learning and practicing:
 
-* AI fundamentals
+* Artificial Intelligence fundamentals
 * Machine Learning fundamentals
 * AI vs ML vs DL
 * Types of Machine Learning
-* Mathematics for ML
+* Supervised Learning
+* Unsupervised Learning
+* Reinforcement Learning
+* Mathematics for Machine Learning
 * NumPy
 * Pandas
 * Data Analysis
 * Data Preprocessing
 * Feature Engineering
-* Supervised Learning
-* Unsupervised Learning
+* Machine Learning Algorithms
 * Model Evaluation
 * Deep Learning
+* Neural Networks
 * NLP
 * Generative AI
-* LLMs
+* Large Language Models
 * Prompt Engineering
 * RAG Systems
 * AI Agents
-* ML/AI Projects
+* Practical AI/ML projects
 
 📁 Folder:
 
@@ -85,25 +82,29 @@ Topics include:
 
 ---
 
-## 🧠 3. Aptitude + Reasoning
+# 🧠 3. Aptitude + Reasoning
+
+## Quantitative Aptitude
 
 Topics include:
 
-### Quantitative Aptitude
-
 * Number System
+* Divisibility Rules
 * Percentages
 * Profit and Loss
 * Ratio and Proportion
 * Averages
 * Time and Work
 * Time, Speed and Distance
-* Simple and Compound Interest
+* Simple Interest
+* Compound Interest
 * Probability
 * Permutations and Combinations
 * Data Interpretation
 
-### Logical Reasoning
+## Logical Reasoning
+
+Topics include:
 
 * Number Series
 * Coding-Decoding
@@ -120,49 +121,60 @@ Topics include:
 
 ---
 
-## 💻 4. OOP + CS Fundamentals
+# 💻 4. OOP + CS Fundamentals
 
-Topics include:
+## Object-Oriented Programming
 
-### OOP
+Learning:
 
-* Classes and Objects
+* Classes
+* Objects
+* Attributes
+* Methods
+* Constructors
 * Encapsulation
 * Inheritance
 * Polymorphism
 * Abstraction
-* Constructors
 * Method Overloading
 * Method Overriding
 
-### SQL & DBMS
+## SQL & DBMS
 
-* SQL basics
+Learning:
+
+* SQL fundamentals
 * Queries
+* Filtering
+* Sorting
 * Joins
 * Aggregations
-* Normalization
 * Keys
+* Normalization
 * Transactions
 * Indexing
 
-### Operating Systems
+## Operating Systems
+
+Learning:
 
 * Processes
 * Threads
 * Memory Management
-* Scheduling
+* CPU Scheduling
 * Deadlocks
 * File Systems
 
-### Computer Networks
+## Computer Networks
+
+Learning:
 
 * OSI Model
 * TCP/IP
 * HTTP/HTTPS
 * IP Addressing
 * DNS
-* Networking fundamentals
+* Networking Fundamentals
 
 📁 Folder:
 
@@ -170,25 +182,7 @@ Topics include:
 
 ---
 
-# 📅 90-Day Progress
-
-| Day    | Python + DSA | AI/ML | Aptitude + Reasoning | OOP + CS |
-| ------ | ------------ | ----- | -------------------- | -------- |
-| Day 01 | ✅            | ✅     | ✅                    | ✅        |
-| Day 02 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 03 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 04 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 05 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 06 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 07 | ⬜            | ⬜     | ⬜                    | ⬜        |
-| ...    | ⬜            | ⬜     | ⬜                    | ⬜        |
-| Day 90 | ⬜            | ⬜     | ⬜                    | ⬜        |
-
-> I will update this table as I progress through the 90-day journey.
-
----
-
-# 🗂️ Repository Structure
+# 📂 Repository Structure
 
 ```text
 AI-ML-Engineer-90-Day-Journey/
@@ -218,9 +212,28 @@ AI-ML-Engineer-90-Day-Journey/
 
 ---
 
-# 📝 Daily Learning Process
+# 📅 90-Day Progress Tracker
 
-Every study day follows this process:
+| Day    | Python + DSA | AI/ML | Aptitude + Reasoning | OOP + CS |
+| ------ | ------------ | ----- | -------------------- | -------- |
+| Day 01 | ✅            | ✅     | ✅                    | ✅        |
+| Day 02 | ✅            | ✅     | ✅                    | ✅        |
+| Day 03 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 04 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 05 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 06 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 07 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 08 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 09 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 10 | ⬜            | ⬜     | ⬜                    | ⬜        |
+| ...    | ⬜            | ⬜     | ⬜                    | ⬜        |
+| Day 90 | ⬜            | ⬜     | ⬜                    | ⬜        |
+
+---
+
+# 📝 Daily Learning Method
+
+Every day I follow this process:
 
 ```text
 Learn
@@ -238,19 +251,24 @@ Revise
 Push to GitHub
 ```
 
-For each topic, I will maintain:
+My daily work may contain:
 
 * Theory
 * Examples
-* Practice problems
 * Code
+* Practice problems
 * MCQs
 * Solutions
+* Revision notes
 * Key takeaways
 
 ---
 
-# 📊 Day 01 — Completed ✅
+# 📊 Current Progress
+
+## ✅ Day 01
+
+Completed all four learning tracks.
 
 ### Python + DSA
 
@@ -266,29 +284,54 @@ For each topic, I will maintain:
 
 ### Aptitude + Reasoning
 
-* Number System fundamentals
+* Number System
 * Divisibility rules
 * Practice questions
 
 ### OOP
 
-* Object-Oriented Programming fundamentals
-* Class
-* Object
+* OOP fundamentals
+* Classes
+* Objects
 * Attributes
 * Methods
 
-**Day 01 completed successfully for all four learning tracks. 🎯**
+---
+
+## ✅ Day 02
+
+Completed all four learning tracks.
+
+### Python + DSA
+
+* Day 2 Python/DSA concepts
+* Practice problems
+
+### AI/ML
+
+* Day 2 AI/ML concepts
+* Machine Learning fundamentals
+* Practice questions
+
+### Aptitude + Reasoning
+
+* Day 2 aptitude/reasoning concepts
+* Practice questions
+
+### OOP
+
+* Day 2 OOP concepts
+* Practice questions
 
 ---
 
 # 🔥 Consistency Rules
 
-My goal is **consistency, not perfection**.
+My main goal is **consistency, not perfection**.
 
 ### Rule 1
 
-I will work on the journey every day whenever possible.
+Complete the planned work one day at a time.
 
 ### Rule 2
 
@@ -304,35 +347,73 @@ I will not try to complete several missed days at once.
 
 ### Rule 5
 
-I will push meaningful work to GitHub regularly.
+I will regularly push my work to GitHub.
 
 ### Rule 6
 
-I will focus on understanding concepts rather than simply completing tasks.
+I will focus on understanding concepts instead of only completing tasks.
+
+### Rule 7
+
+Small progress every day is better than occasional large effort.
 
 ---
 
-# 🎯 Final Goal
+# 🎯 90-Day Goals
 
-By the end of these 90 days, I want to have:
+By the end of this journey, I aim to have:
 
 * Strong Python fundamentals
 * Strong DSA and problem-solving skills
 * Strong AI/ML fundamentals
-* Practical Machine Learning experience
-* Understanding of Deep Learning, NLP and Generative AI
-* Better aptitude and reasoning skills
-* Strong OOP and CS fundamentals
-* Multiple practical projects
-* A consistent GitHub learning history
-* Better preparation for AI/ML technical interviews
+* Practical Machine Learning knowledge
+* Understanding of Deep Learning
+* NLP and Generative AI knowledge
+* Understanding of LLMs and RAG
+* Strong aptitude and reasoning skills
+* Strong OOP fundamentals
+* Basic SQL and DBMS knowledge
+* Operating Systems fundamentals
+* Computer Networks fundamentals
+* Consistent GitHub activity
+* Better technical interview preparation
+* Multiple practical AI/ML projects
 
 ---
 
-## 🚀 Day 1 Complete — The Journey Starts Again!
+# 📈 Progress Philosophy
 
-**One day at a time. One concept at a time. One commit at a time.**
+I don't need to be perfect.
 
-> **Consistency beats perfection.**
+I need to be **consistent**.
 
-**Goal: Become an AI/ML Engineer. 🤖**
+```text
+Day 1  ✅
+Day 2  ✅
+Day 3  ⬜
+...
+Day 90 ⬜
+```
+
+One concept at a time.
+
+One problem at a time.
+
+One day at a time.
+
+One commit at a time.
+
+> **Consistency beats perfection.** 🚀
+
+---
+
+# 🤖 Final Goal
+
+**Become an AI/ML Engineer.**
+
+Keep learning.
+Keep practicing.
+Keep building.
+Keep improving.
+
+**90 Days. 4 Learning Tracks. 1 Goal. 🚀**
