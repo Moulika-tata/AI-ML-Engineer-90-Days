@@ -1,55 +1,130 @@
 # 📗 Day 02 — AI/ML Engineer 90-Day Journey
 
-## 🎯 Learning Objectives
+## 🎯 Day 02 Goal
 
-The goal of Day 2 was to strengthen Python fundamentals, begin working with NumPy, and practice mathematical aptitude problems.
+The goal of Day 02 was to strengthen Python fundamentals, continue Object-Oriented Programming, start working with NumPy, and improve mathematical problem-solving through aptitude practice.
 
-## 📚 Topics Covered
+---
 
-### 1. Python Operators
+## 🐍 Python — Operators
+
+### Topics Covered
+
 - Arithmetic operators
 - Comparison operators
 - Logical operators
 - Assignment operators
-- Understanding operator behavior through examples
+- Understanding operator behavior
+- Basic expressions and calculations
 
-### 2. NumPy Basics
+### Practice
+
+Practiced different Python operators through examples and coding exercises.
+
+📓 **Notebook:** [Day_02_Python_Operators_.ipynb](Day_02_Python_Operators_.ipynb)
+
+---
+
+## 🔢 NumPy Fundamentals
+
+### Topics Covered
+
 - Introduction to NumPy
-- Creating NumPy arrays
-- Indexing and slicing
+- NumPy arrays
+- Creating arrays
+- Array indexing
+- Array slicing
 - Array operations
-- Filtering arrays using conditions
-- Basic numerical computations
+- Array shapes
+- Basic numerical operations
+- Working with multi-dimensional arrays
 
-### 3. Aptitude — HCF and LCM
+### Practice
+
+Created and manipulated NumPy arrays and performed basic numerical operations.
+
+📓 **Notebook:** [Day_02_NumPy_Basics.ipynb](Day_02_NumPy_Basics.ipynb)
+
+---
+
+## 💻 OOP — Encapsulation
+
+### Topics Covered
+
+- Introduction to Encapsulation
+- Public attributes and methods
+- Private attributes
+- Using `__` for private members
+- Getter and setter methods
+- Data hiding
+- Controlling access to object data
+
+### Practice
+
+Implemented Python examples to understand how encapsulation can be used to protect and control access to data inside a class.
+
+📓 **Notebook:** [Day_02_Encapsulation.ipynb](Day_02_Encapsulation.ipynb)
+
+---
+
+## 🧠 Aptitude — HCF & LCM
+
+### Topics Covered
+
 - Highest Common Factor (HCF)
 - Least Common Multiple (LCM)
-- Finding HCF and LCM using basic methods
-- Solving practice questions
+- Finding HCF
+- Finding LCM
+- Relationship between HCF and LCM
+- Practice problems
 
-## 💻 Practice Notebooks
+### Practice
 
-| Topic | Notebook |
+Solved HCF and LCM questions to improve calculation speed and mathematical reasoning.
+
+📓 **Notebook:** [Day_02_HCF_LCM.ipynb](Day_02_HCF_LCM.ipynb)
+
+---
+
+## 📂 Day 02 Files
+
+| Area | Notebook |
 |---|---|
-| Python Operators | [Day 2 Python Operators](Day_02_Python_Operators_.ipynb) |
-| NumPy | [Day 2 NumPy Basics](Day_02_NumPy_Basics.ipynb) |
-| Aptitude | [Day 2 HCF and LCM](Day_02_HCF_LCM.ipynb) |
+| Python | [Day_02_Python_Operators_.ipynb](Day_02_Python_Operators_.ipynb) |
+| NumPy | [Day_02_NumPy_Basics.ipynb](Day_02_NumPy_Basics.ipynb) |
+| OOP | [Day_02_Encapsulation.ipynb](Day_02_Encapsulation.ipynb) |
+| Aptitude | [Day_02_HCF_LCM.ipynb](Day_02_HCF_LCM.ipynb) |
+
+---
 
 ## 🛠️ Tools Used
+
 - Python
 - NumPy
 - Google Colab
+- Jupyter Notebook
+- Git
 - GitHub
 
-## ✅ Learning Outcome
+---
 
-- Practiced Python operators and expressions.
-- Learned to work with NumPy arrays and basic array operations.
-- Practiced HCF and LCM aptitude questions.
-- Documented daily learning through Jupyter notebooks.
+## ✅ Day 02 Learning Outcome
 
-## 🚀 Next Steps
+By the end of Day 02, I was able to:
 
-Continue the 90-day journey by strengthening Python, DSA, aptitude, OOP, and AI/ML concepts through regular coding practice.
+- Understand and practice different Python operators.
+- Create and work with NumPy arrays.
+- Perform basic NumPy array operations.
+- Understand the concept of encapsulation in OOP.
+- Practice private attributes and controlled access to object data.
+- Understand HCF and LCM concepts.
+- Solve HCF and LCM aptitude problems.
+- Continue documenting my learning consistently on GitHub.
 
-**Learn. Practice. Build. Repeat!**
+---
+
+## 🚀 Next Step
+
+Continue to Day 03 with the next set of Python, DSA, AI/ML, OOP/CS fundamentals, and aptitude practice.
+
+**Learn → Practice → Build → Repeat.**
