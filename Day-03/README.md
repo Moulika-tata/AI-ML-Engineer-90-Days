@@ -1,101 +1,82 @@
-# 📘 Day 03 — Python Control Flow
+# 📘 Day 03 — Python Control Flow & NumPy Practice
 
-## 🎯 Day 03 Goal
+## 🎯 Learning Objectives
 
-The goal of Day 03 was to understand Python control flow and learn how to control the execution of a program using conditions and loops.
+Day 03 focused on strengthening Python programming logic and developing practical NumPy skills for numerical computing and machine learning.
 
 ---
 
-## 🐍 Python Control Flow
+## 🐍 1. Python Control Flow
 
 ### Concepts Learned
-
-- `if` statement
-- `if-else`
-- `if-elif-else`
-- Nested `if`
-- `for` loop
-- `while` loop
+- `if`, `if-else`, and `if-elif-else`
+- Nested `if` statements
+- `for` and `while` loops
 - `range()`
-- `break`
-- `continue`
+- `break` and `continue`
 - Conditional logic
 
----
+### Assessment Results
+- Revision Test: **9/10**
+- Final MCQ Test: **15/15 (100%)**
 
-## 💻 Practice
+### Key Takeaway
 
-Completed multiple Python programs using:
+Control flow helps programs make decisions, repeat operations, and execute instructions based on conditions.
 
-- Conditional statements
-- Nested conditions
-- `for` loops
-- `while` loops
-- `range()`
-- `break`
-- `continue`
-- Basic conditional logic
-
-The practice focused on understanding how Python makes decisions and repeats instructions.
+📓 **Notebook:** `Day_03_Python_Control_Flow.ipynb`
 
 ---
 
-## 📝 Revision Test
+## 🔢 2. NumPy Practice
 
-**Score: 9/10**
+### Concepts Learned
+- Array properties and vectorized operations
+- Aggregation functions
+- Array slicing and Boolean filtering
+- Broadcasting
+- `axis=0` and `axis=1`
+- Random data generation
+- Array reshaping
 
-Used the revision test to check my understanding of Python control flow.
+### Practice Completed
+- Completed 10 numerical NumPy practice tasks.
+- Completed a 10-question timed assessment.
 
----
+### Assessment Result
+- Score: **9/10**
+- Percentage: **90%**
 
-## 🏆 Final MCQ Test
+### Key Takeaway
 
-**Score: 15/15 — 100%**
+NumPy provides efficient tools for numerical computing and forms an important foundation for data analysis and machine learning.
 
-Successfully completed the final MCQ test with a perfect score.
-
----
-
-## 🔑 Key Takeaways
-
-- `if` → checks a condition.
-- `elif` → checks another condition when the previous condition is false.
-- `else` → executes when the previous conditions are false.
-- `for` → commonly used for iteration.
-- `while` → repeats while a condition is true.
-- `range()` → generates a sequence of numbers.
-- `break` → stops the loop.
-- `continue` → skips the current iteration and continues with the next iteration.
+📓 **Notebook:** `Day_03_NumPy_Practice.ipynb`
 
 ---
 
 ## 🛠️ Tools Used
-
 - Python
+- NumPy
 - Google Colab
 - Jupyter Notebook
-- Git
-- GitHub
+- Git and GitHub
 
 ---
 
-## ✅ Day 03 Learning Outcome
+## ✅ Day 03 Learning Outcomes
 
-By the end of Day 03, I was able to:
+By the end of Day 03, I practiced:
+- Writing conditional statements and loops in Python.
+- Controlling program execution using `break` and `continue`.
+- Performing vectorized numerical operations with NumPy.
+- Applying slicing, Boolean filtering, and broadcasting.
+- Using aggregation functions and array reshaping.
+- Understanding how `axis=0` and `axis=1` work.
+- Evaluating my knowledge through revision tests and timed assessments.
 
-- Use conditional statements in Python.
-- Write `if`, `if-else`, and `if-elif-else` statements.
-- Understand nested conditions.
-- Use `for` and `while` loops.
-- Use `range()` for iteration.
-- Control loops using `break` and `continue`.
-- Apply conditional logic to solve programming problems.
-- Successfully complete the final MCQ test with a score of **15/15**.
+## 🚀 Next Steps
 
----
+Continue strengthening Python, NumPy, problem-solving, and the mathematical foundations required for Machine Learning.
 
-## 🚀 Next Step
-
-Continue the 90-day journey by building on Python fundamentals and gradually moving toward problem-solving, DSA, and AI/ML concepts.
-
-**Learn → Practice → Revise → Build.**
+**Learn → Practice → Assess → Improve.**
