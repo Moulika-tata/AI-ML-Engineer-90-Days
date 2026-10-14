@@ -1,171 +1,108 @@
-# 🚀 AI/ML Engineer — 90-Day Journey
-
-Welcome to my **90-Day AI/ML Engineer Learning Journey!**
-
-This repository documents my daily learning, coding practice, problem-solving, assessments, and progress as I build a strong foundation in Artificial Intelligence and Machine Learning.
-
-My goal is to strengthen my programming skills, understand core AI/ML concepts, build practical projects, and prepare for AI/ML Engineer opportunities.
+# 📘 Day 3 — Python, NumPy, OOP Inheritance & Fractions and Decimals
 
 ## 🎯 Learning Objectives
 
-- Strengthen Python programming and Object-Oriented Programming (OOP).
-- Practice Data Structures and Algorithms (DSA).
-- Improve aptitude, numerical ability, and logical reasoning.
-- Learn mathematics and statistics for Machine Learning.
-- Develop data analysis skills using NumPy and Pandas.
-- Understand and implement Machine Learning algorithms.
-- Explore Deep Learning, NLP, and Computer Vision.
-- Learn Generative AI, Large Language Models (LLMs), and RAG.
-- Build and deploy practical AI applications.
-- Improve technical communication and interview skills.
+On Day 3, I focused on improving my Python programming logic, practicing numerical computing with NumPy, understanding OOP inheritance, and strengthening my aptitude skills through Fractions and Decimals.
 
----
+## 🐍 1. Python — Control Flow
 
-## 📅 90-Day Learning Roadmap
+### Topics Covered
+- `if`, `elif`, and `else` statements
+- Nested conditional statements
+- Boolean logic and comparison operators
+- Checking even and odd numbers
+- Identifying positive and negative numbers
+- Finding the largest of three numbers
+- Grade calculator
+- Leap year checker
+- Voting eligibility checker
+- `for` and `while` loops
+- Using `range()`
+- Understanding `break` and `continue`
 
-| Phase | Days | Focus Areas |
-|---|---|---|
-| Phase 1 | 1–15 | Python, OOP, DSA fundamentals, aptitude, AI/ML basics |
-| Phase 2 | 16–30 | Advanced Python, NumPy, Pandas, statistics, data analysis |
-| Phase 3 | 31–45 | Machine Learning algorithms, model training, evaluation |
-| Phase 4 | 46–60 | Deep Learning, neural networks, NLP, Computer Vision |
-| Phase 5 | 61–75 | Generative AI, LLMs, prompt engineering, RAG, AI agents |
-| Phase 6 | 76–90 | End-to-end projects, deployment, revision, interview preparation |
+### Practice Results
+- Python revision test: **9/10**
+- Final Python MCQ test: **15/15 (100%)**
 
-*This is my planned roadmap. Topics and timelines may be adjusted as I progress.*
+## 🔢 2. NumPy — Numerical Computing
 
----
-
-## 📂 Repository Structure
-
-```text
-AI-ML-Engineer-90-Days/
-│
-├── Day-01/
-│   ├── Day_01_AI_ML_Basics.ipynb
-│   ├── Day_01_Number_System.ipynb
-│   ├── Day_01_OOP_Foundations.ipynb
-│   ├── Day_01_Python_Basics.ipynb
-│   └── README.md
-│
-├── Day-02/
-│   ├── Day2_Encapsulation.ipynb
-│   ├── Day_02_HCF_LCM.ipynb
-│   ├── Day_02_NumPy_Basics.ipynb
-│   ├── Day_02_Python_Operators_.ipynb
-│   └── README.md
-│
-├── Day-03/
-│   ├── Day_03_NumPy_Practice.ipynb
-│   ├── Day_03_python.ipynb
-│   ├── Day_3_inheritance.ipynb
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-## 📈 Daily Learning Progress
-
-### ✅ Day 01 — Foundations
-
-**Topics covered:**
-- AI and Machine Learning fundamentals
-- Python basics and programming logic
-- OOP foundations
-- Number system and aptitude
-
-### ✅ Day 02 — Python, NumPy, OOP and Aptitude
-
-**Topics covered:**
-- Python operators
-- NumPy fundamentals
-- OOP encapsulation
-- HCF and LCM aptitude practice
-
-### ✅ Day 03 — Python, NumPy and OOP Inheritance
-
-**Python — Control Flow**
-- `if`, `elif`, `else`, nested conditions and Boolean logic
-- Even/odd, positive/negative, largest of three, grade calculator, leap year and voting eligibility
-- `for`, `while`, `range()`, `break` and `continue`
-
-**NumPy — Numerical Computing**
-- Broadcasting and vectorized operations
+### Topics Covered
+- NumPy array properties
+- Vectorized operations
+- Broadcasting
 - Aggregation functions
-- `axis=0` and `axis=1`
-- Array slicing and Boolean filtering
-- Random data generation and reshaping
+- Understanding `axis=0` and `axis=1`
+- Array slicing
+- Boolean filtering
+- Reshaping arrays
+- Generating random data
 
-**OOP — Inheritance**
+### Practice Results
+- Numerical practice tasks completed: **10**
+- Timed assessment: **9/10 (90%)**
+- Practiced numerical operations without using Pandas.
+
+## 🧱 3. OOP — Inheritance
+
+### Topics Covered
+- Understanding inheritance in Object-Oriented Programming
 - Parent and child classes
-- Method reuse and inheritance
-- `Animal`, `Dog`, `Cat`, `Employee` and `Developer` practice examples
+- Reusing methods from a parent class
+- Understanding the benefits of inheritance
+- Practicing `Animal`, `Dog`, and `Cat` examples
+- Practicing `Employee` and `Developer` examples
 
-**Assessment results**
+### Key Learning
+Inheritance allows a child class to reuse and extend the attributes and methods of a parent class. It helps reduce code duplication and makes programs easier to organize and maintain.
+
+## ➗ 4. Aptitude — Fractions and Decimals
+
+### Learning Objectives
+By completing this session, I practiced how to:
+
+- Understand fractions and their parts
+- Identify proper, improper, and mixed fractions
+- Simplify fractions using HCF
+- Add and subtract fractions
+- Multiply and divide fractions
+- Convert fractions to decimals and decimals to fractions
+- Understand recurring decimals
+- Solve aptitude questions involving fractions and decimals
+
+### Assessment Results
 
 | Assessment | Score |
 |---|---:|
-| Python revision test | 9/10 |
-| Python final MCQ test | 15/15 (100%) |
-| NumPy timed assessment | 9/10 (90%) |
+| Practice Questions | 20/20 |
+| MCQ Test | 10/10 |
+| **Total Score** | **30/30 (100%)** |
 
----
+### Key Learning
+I strengthened my understanding of fraction operations, simplification, decimal conversions, and recurring decimals. I achieved **100%** across the practice questions and MCQ test.
 
-### 🔄 Days 04–90 — Upcoming Learning
+## 📊 Day 3 Progress Summary
 
-I will continue documenting daily topics, coding exercises, assessment results, and hands-on projects as I progress through the roadmap.
+| Subject | Result |
+|---|---|
+| Python — Control Flow | Revision: 9/10; Final MCQ: 15/15 |
+| NumPy — Numerical Computing | Timed assessment: 9/10 (90%) |
+| OOP — Inheritance | Studied inheritance concepts and examples |
+| Fractions and Decimals | 30/30 (100%) |
 
----
+## 💡 Key Takeaways
 
-## 🛠️ Technologies and Tools
+- Improved my understanding of Python conditions and loops.
+- Practiced NumPy broadcasting, aggregation, filtering, and reshaping.
+- Learned how inheritance supports code reuse in OOP.
+- Improved my speed and accuracy in fractions and decimals.
+- Continued building consistency through coding practice and assessments.
 
-- **Programming:** Python
-- **Numerical Computing:** NumPy
-- **Data Analysis:** Pandas
-- **Machine Learning:** Scikit-learn
-- **Deep Learning:** PyTorch, TensorFlow
-- **Development:** Google Colab, Jupyter Notebook
-- **Version Control:** Git and GitHub
-- **Future Focus:** NLP, Generative AI, LLMs, RAG, APIs, and model deployment
+## 🚀 Next Steps
 
----
+- Continue Python and OOP revision.
+- Practice more NumPy problems.
+- Revise aptitude concepts regularly.
+- Continue progressing through my 90-day AI/ML Engineer learning roadmap.
 
-## 🧠 My Daily Learning Approach
-
-1. Learn concepts and understand the fundamentals.
-2. Practice through coding examples.
-3. Solve programming, DSA, and aptitude problems.
-4. Explain concepts in my own words.
-5. Complete revision tests and assessments.
-6. Document my work in Jupyter notebooks.
-7. Push daily progress to GitHub.
-8. Revise regularly and apply knowledge in projects.
-
----
-
-## 🏆 Expected Outcomes
-
-By the end of this journey, I aim to:
-
-- Develop strong Python and problem-solving skills.
-- Understand core Machine Learning and Deep Learning concepts.
-- Work confidently with numerical computing and data analysis libraries.
-- Build practical AI and Generative AI applications.
-- Gain experience with model evaluation, APIs, and deployment.
-- Create a portfolio demonstrating consistent learning and practical work.
-- Prepare for entry-level AI/ML Engineer opportunities.
-
----
-
-## 🌱 My Commitment
-
-This repository represents my commitment to consistent learning, hands-on practice, and continuous improvement.
-
-I believe that small daily steps and practical implementation can lead to meaningful progress in AI/ML engineering.
-
-**Learn every day. Code every day. Build something meaningful.** 🚀
-
-⭐ Thank you for visiting my 90-Day AI/ML Engineer Learning Journey!
+**Day 3 completed — learning, practicing, and improving one step at a time!** 💪
 
